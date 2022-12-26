@@ -15,6 +15,11 @@ During my Assembly and C studies, I felt that I was putting into practice what I
 * Reboot
 
 ## Compile
+Requirements:
+* NASM
+* Make
+* QEMU
+
 ```
 # Install QEMU on your machine to emulate the kernel
 $ git clone https://github.com/MrEmpy/SimpleASMKernel
