@@ -6,9 +6,7 @@ During my Assembly and C studies, I felt that I was putting into practice what I
 
 ## Functions
 * LoadSystem
-* DiskRead* Segment
-11
-* Stack
+* DiskRead
 * DiskWrite
 * CleanScreen
 * SetBackGroundColor
