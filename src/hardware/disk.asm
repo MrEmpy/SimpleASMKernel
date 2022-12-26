@@ -1,5 +1,5 @@
-%IFNDEF __EMPENEL_DISK_DRIVE__
-%DEFINE __EMPENEL_DISK_DRIVE__
+%IFNDEF __DISK_DRIVE__
+%DEFINE __DISK_DRIVE__
 
 segmentaddr dw 0000h
 segmentoffset dw 0000h
