@@ -35,3 +35,4 @@ $ qemu-system-x86_64 build/basickernel.bin
 * https://en.wikipedia.org/wiki/Master_boot_record
 * https://www.youtube.com/watch?v=mWeh3_ITG7M&list=PL25E6AC923586A2F6
 * https://www.youtube.com/watch?v=MwPjvJ9ulSc&list=PLm3B56ql_akNcvH8vvJRYOc7TbYhRs19M
+* https://knightos.org/
