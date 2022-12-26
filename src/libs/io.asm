@@ -1,5 +1,5 @@
-%IFNDEF __EMPENEL_IO_DRIVE__
-%DEFINE __EMPENEL_IO_DRIVE__
+%IFNDEF __IO_DRIVE__
+%DEFINE __IO_DRIVE__
 
 Println:
     mov ah, 0x0e
