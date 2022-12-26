@@ -23,7 +23,7 @@ $ make
 $ qemu-system-x86_64 build/basickernel.bin
 ```
 
-# References
+## References
 * https://mikeos.sourceforge.net/write-your-own-os.html
 * https://wiki.osdev.org/Expanded_Main_Page
 * https://en.wikipedia.org/wiki/DOS
