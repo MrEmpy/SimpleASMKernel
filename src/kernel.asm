@@ -40,4 +40,3 @@ End:
     jmp $
 
 hwmsg db "Hello, World! I'm a basic kernel developed by MrEmpy :D",13,10,"Press ENTER to restart",13,10,0    
-baixo db "================================================================================",0
